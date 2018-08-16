@@ -95,3 +95,7 @@ Optimizing Dataframe Memory Footprint, Processing Dataframes in Chunks, Augmenti
 ### [Analyzing Wikipedia Pages](https://github.com/LisaRivalin/Training-Projects/blob/master/22-Analyzing%20Wikipedia%20Pages.ipynb)
 *Optimizing Code Performance On Large Datasets*  
 CPU Bound Programs, I/O Bound Programs, Overcoming The Limitations of Threads, Quickly Analyzing Data With Parallel Processing
+
+### [Analyzing Stock Prices](https://github.com/LisaRivalin/Training-Projects/blob/master/23-Analyzing%20Stock%20Prices.ipynb)
+*Algorithms and Data Structures*  
+Processing Tasks with Stacks and Queues, Effectively using arrays and lists, Sorting and Searching arrays and lists, Hash tables
